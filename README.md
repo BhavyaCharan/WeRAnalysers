@@ -25,6 +25,7 @@ There are around 63 lakh rows with 11 features as mentioned below<br>
   <li><b>extract.R </b>: Script for extracting required data from OpenAQ database.</li>
   <li><b>Stocktaking.ipynb</b> : Basic summary statistics of the data. Visualizations capturing some key aspects of the data.</li>
   <li><b>Stocktaking.html</b> : HTML version obtained from nbviewer incase the .ipynb files are not rendered.</li>
+  <li><b>WeRAnalysers_LiteratureSurveyReport.pdf</b> : Literature survey report.</li>
 </ul>
 <h2>Authors</h2>
  <ul>
