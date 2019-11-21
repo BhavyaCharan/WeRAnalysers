@@ -2,7 +2,7 @@
 
 This project is an attempt to analyse the air pollution levels in India.<br>
 We would like analyse the trends in the concentrations of various pollutants like NO<sub>2</sub>,SO<sub>2</sub>,O<sub>3</sub>,PM<sub>10</sub>,PM<sub>2.5</sub> and CO through the years 2016-2018.<br>
-An effort shall also be made to try and attribute the changes in pollutant levels to phenomenon such as Rainfall, temperature, weather, increase/decrease in the number of vehicles and whether the change in pollutant levels are accompanied by reduction in life expectancy, mortalitiy rate etc.<br>
+An effort shall also be made to try and attribute the changes in pollutant levels to phenomenon such as Rainfall, temperature, weather etc.<br>
 We are working on data collected by openAQ which can be found here https://openaq-data.s3.amazonaws.com/index.html<br>
 We have scraped a part of the data for India and our dataset can be found here https://www.kaggle.com/ruben99/air-pollution-dataset-india20162018
 
