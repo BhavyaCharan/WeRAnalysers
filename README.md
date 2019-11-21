@@ -26,7 +26,12 @@ There are around 63 lakh rows with 11 features as mentioned below<br>
   <li><b>Stocktaking.ipynb</b> : Basic summary statistics of the data. Visualizations capturing some key aspects of the data.</li>
   <li><b>Stocktaking.html</b> : HTML version obtained from nbviewer incase the .ipynb files are not rendered.</li>
   <li><b>WeRAnalysers_LiteratureSurveyReport.pdf</b> : Literature survey report.</li>
+  <li><b>WeRAnalysers_FinalReport.pdf</b> : Final report for the project.</li>
+  <li><b>AnalysisOfAirPollutantsInIndia.ipynb</b> : Complete code available here</li>
+  
 </ul>
+<h4>How to run the code?</h4>
+ The dataset used is avilable on kaggle here https://www.kaggle.com/ruben99/air-pollution-dataset-india20162018, and in order to replicate the tests, the AnalysisOfAirPollutantsInIndia.<br>ipynb notebook can be uploaded onto kaggle for this particular dataset and the tests can be replicated.
 <h2>Authors</h2>
  <ul>
   <li><a href="https://github.com/bharaniuk">Bharani Ujjaini Kempaiah</a></li>
